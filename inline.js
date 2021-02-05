@@ -1,7 +1,5 @@
 "use strict";
 
-console.log("Hi, we probably too late");
-
 const navigator = window.navigator;
 const modifiedNavigator = Navigator.prototype;
 
